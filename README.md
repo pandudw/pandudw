@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @pandudw
-- 👀 I’m interested in devops and IT security 
-- 📫 You can can reach me on @nasrullahpandud1@gmail.com 
+- 👋 Hi, there! My name is Nasrullah Pandu Dewantara, an undergraduate student at telkom university majoring in telecommunications engineering.  
+- 👀 IT Security and DevOps are my main areas of study.  
+- 📫 You can can reach me @nasrullahpandud1@gmail.com 
+- :writing_hand: I'm coding with python on daily basis
 
 <!---
 pandudw/pandudw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
