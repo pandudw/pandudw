@@ -1,8 +1,7 @@
 ## 👋 Hi, everyone!  
-- :smiley: I'm Nasrullah Pandu Dewantara, DevOps Engineer.
-- 👀 IT Security and DevOps are my main areas of study.  
+- DevOps Engineer, Site Reliability Engineer, DevSecOps Engineer.
 - 📫 You can can reach me @nasrullah.pandud1@gmail.com 
-- :writing_hand: I'm coding with Python or Go on a daily basis
+- :writing_hand: I'm coding with Python or Go
 
 <!---
 pandudw/pandudw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
